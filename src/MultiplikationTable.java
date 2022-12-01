@@ -14,7 +14,7 @@ public class MultiplikationTable {
 
     @Override
     public String toString() {
-        return "MultiplikationTable" +
+        return "Пример из таблицы умножения: " +
                  tasks ;
     }
 }
